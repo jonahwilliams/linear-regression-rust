@@ -1,0 +1,7 @@
+[package]
+name = "linear-regression-rust"
+version = "0.1.0"
+authors = ["Jonah Williams <campfish91@gmail.com>"]
+
+[dependencies]
+rand = "*"
